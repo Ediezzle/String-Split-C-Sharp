@@ -1,0 +1,11 @@
+C:\Users\Dev Ops\source\repos\StringSplit\StringSplit\bin\Debug\netcoreapp3.1\StringSplit.exe
+C:\Users\Dev Ops\source\repos\StringSplit\StringSplit\bin\Debug\netcoreapp3.1\StringSplit.deps.json
+C:\Users\Dev Ops\source\repos\StringSplit\StringSplit\bin\Debug\netcoreapp3.1\StringSplit.runtimeconfig.json
+C:\Users\Dev Ops\source\repos\StringSplit\StringSplit\bin\Debug\netcoreapp3.1\StringSplit.runtimeconfig.dev.json
+C:\Users\Dev Ops\source\repos\StringSplit\StringSplit\bin\Debug\netcoreapp3.1\StringSplit.dll
+C:\Users\Dev Ops\source\repos\StringSplit\StringSplit\bin\Debug\netcoreapp3.1\StringSplit.pdb
+C:\Users\Dev Ops\source\repos\StringSplit\StringSplit\obj\Debug\netcoreapp3.1\StringSplit.csprojAssemblyReference.cache
+C:\Users\Dev Ops\source\repos\StringSplit\StringSplit\obj\Debug\netcoreapp3.1\StringSplit.AssemblyInfoInputs.cache
+C:\Users\Dev Ops\source\repos\StringSplit\StringSplit\obj\Debug\netcoreapp3.1\StringSplit.AssemblyInfo.cs
+C:\Users\Dev Ops\source\repos\StringSplit\StringSplit\obj\Debug\netcoreapp3.1\StringSplit.dll
+C:\Users\Dev Ops\source\repos\StringSplit\StringSplit\obj\Debug\netcoreapp3.1\StringSplit.pdb
